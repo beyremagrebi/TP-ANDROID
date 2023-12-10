@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">consomation_webService</string>
+    <string name="title_activity_saved_user">SavedUser</string>
+</resources>
